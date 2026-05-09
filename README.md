@@ -1,4 +1,4 @@
-# 📊 Power BI Project: NHS Outpatient Service Performance Dashboard
+# 📊 NHS Outpatient Service Performance: Power BI Dashboard
 
 ## 🧠 Project Overview
 
