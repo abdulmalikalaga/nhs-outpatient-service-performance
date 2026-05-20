@@ -66,6 +66,7 @@ else if [age] >= 45 then "45–59"
 else if [age] >= 30 then "30–44"
 else "18–29"
 ```
+<img width="892" height="531" alt="Screenshot 2025-12-02 125849" src="https://github.com/user-attachments/assets/3b9275b8-4c0e-4bbc-b5e6-c80ba796fc06" />
 
 - Created flags in appointments:
   - `attended_flag`
