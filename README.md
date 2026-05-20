@@ -268,7 +268,7 @@ This solution provides a clear, intuitive, and data-driven view of outpatient pe
 
 # 📁 PBIX File
 
-[Download the Power BI Dashboard]
+[Download the Power BI Dashboard](https://github.com/abdulmalikalaga/nhs-outpatient-service-performance/blob/main/pbix/nhs%20outpatient%20performance%20viz.pbix)
 
 ---
 
