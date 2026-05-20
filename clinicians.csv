@@ -1,0 +1,11 @@
+clinician_id,clinician_name,role,specialty
+1,Clinician 1,Consultant,Neurology
+2,Clinician 2,Consultant,General Medicine
+3,Clinician 3,Consultant,Cardiology
+4,Clinician 4,Consultant,General Medicine
+5,Clinician 5,Consultant,General Medicine
+6,Clinician 6,Registrar,Orthopaedics
+7,Clinician 7,Registrar,Cardiology
+8,Clinician 8,Registrar,Cardiology
+9,Clinician 9,Registrar,Cardiology
+10,Clinician 10,Registrar,General Medicine

@@ -1,0 +1,6 @@
+clinic_id,clinic_name,specialty,location
+1,Central Outpatient,General Medicine,Central
+2,Westside Ortho,Orthopaedics,West
+3,Eastside Cardio,Cardiology,East
+4,Northside Neuro,Neurology,North
+5,Southside General,General Medicine,South
