@@ -220,34 +220,34 @@ To monitor outpatient activity, performance variation across clinics, and identi
 
 # ⚙️ Challenges and Solutions
 
-## Issue: Age Band “75+” losing the plus sign
+## ⚠️ Issue: Age Band “75+” losing the plus sign
 Power Query stripped the “+” when using conditional columns.
 
-### Solution
+### ✅ Solution
 Used a Custom Column with M code to enforce text literals.
 
 ---
 
-## Issue: Patient age-band visual not responding to clinic slicer
+## ⚠️ Issue: Patient age-band visual not responding to clinic slicer
 The patients table does not contain clinic fields.
 
-### Solution
+### ✅ Solution
 Created a measure using `DISTINCTCOUNT` filtered through appointments.
 
 ---
 
-## Issue: Map visual unusable
+## ⚠️ Issue: Map visual unusable
 Synthetic postcode data was not geographically valid.
 
-### Solution
+### ✅ Solution
 Removed the map visual to avoid misleading analysis.
 
 ---
 
-## Issue: Bookmarks cannot be assigned to text boxes
+## ⚠️ Issue: Bookmarks cannot be assigned to text boxes
 Power BI does not support actions on text boxes.
 
-### Solution
+### ✅ Solution
 Used shapes/buttons instead.
 
 ---
