@@ -104,6 +104,8 @@ A clean star schema was implemented.
 - `sessions[clinic_id] → clinics[clinic_id]`
 - `Date[Date] → appointments[appointment_date], sessions[session_date]`
 
+<img width="1900" height="914" alt="Screenshot 2025-12-02 134910" src="https://github.com/user-attachments/assets/4f069f87-02e9-469c-b383-69e1b264eb6e" />
+
 ## Date Table (DAX)
 
 ```DAX
