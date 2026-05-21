@@ -181,6 +181,12 @@ To monitor outpatient activity, performance variation across clinics, and identi
 - Attempted map visual removed because synthetic postcodes were not geographically valid
 - Additional visuals on outcomes and demographic patterns
 
+## 🖼️ Dashboard Preview:
+
+<img width="1436" height="808" alt="outpatient viz final" src="https://github.com/user-attachments/assets/813637ee-7246-47f8-8e49-63fec3747a9e" />
+
+---
+
 ## Interactivity
 - Slicers for clinic, clinician, age band
 - Corrected cross-filtering behaviour using Edit Interactions
